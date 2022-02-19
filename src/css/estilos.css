@@ -52,7 +52,7 @@ html {
 }
 
 .logo .titulo:hover{
-    color: #1ED760;
+    color: #b83dba;
 }
 
 /* LOGO */
@@ -61,6 +61,7 @@ html {
 
 
 .cabecalho {
+    font-size: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -84,7 +85,7 @@ html {
 }
 
 .cabecalho .navegacao .menu .item a:hover {
-    background-color: #1ED760;
+    background-color: #b83dba;
     color: white;
     border-radius: 80px;
 }
@@ -169,11 +170,12 @@ html {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     position: absolute;
     text-indent: 100%;
     overflow: hidden;
+    border-radius: 30%;
 }
 
 .conteudo-principal .paineis .seta.btn-voltar {
@@ -195,7 +197,7 @@ html {
 /* QUEM SOMOS */
 
 .quem-somos {
-    background-color: #2941ab;
+    background-color: #33054c;
 }
 
 .quem-somos .conteudo {
@@ -215,7 +217,7 @@ html {
 
 .quem-somos .conteudo .informacoes .titulo {
     font-size: 50px;
-    color: #1ED760;
+    color: #b83dba;
     margin-bottom: 20px;
 }
 
@@ -278,7 +280,7 @@ html {
 }
 
 .rodape .redes-sociais a:hover {
-    background-color: #1ED760;
+    background-color: #b83dba;
 }
 
 .rodape .copyright {
