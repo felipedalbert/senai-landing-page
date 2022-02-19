@@ -10,7 +10,7 @@
 <br>
 
 
->[Link for web page](https://felipedalbert.github.io/landing-page-project/)
+>[Link for web page](https://felipedalbert.github.io/senai-landing-page/)
 
 <br>
 
@@ -64,7 +64,7 @@ The user will have the best experience on all devices and on different screen si
 <br>
 
 
->[Link para página na web](https://felipedalbert.github.io/landing-page-project/)
+>[Link para página na web](https://felipedalbert.github.io/senai-landing-page/)
 
 <br>
 
