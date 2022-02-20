@@ -37,7 +37,7 @@ It is possible to change the image of the panel through the arrow button in the 
 ​​"nossos projetos". When the arrow changes color to gray it means there are no more images 
 to display.
 ```
-<img src="src/imagens/sequence.gif" alt="Image sequence" width="400px" border-style="solid" border="2px">
+<img src="/src/imagens/sequence.gif" alt="Image sequence" width="400px" border-style="solid" border="2px">
 
 ---
 
